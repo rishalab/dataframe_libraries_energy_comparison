@@ -1,8 +1,10 @@
 ## Instructions:
 
-1. IMPORTANT: Please generate the required hdf5 files by navigating to the `datasets` folder and running the file `generate_hdfs.py`
+1. Download `csv` and `json` files from the [link](https://drive.google.com/drive/folders/13xHh2bvxF8X9cho1fVohIbu4lrpdvVlz?usp=sharing) 
 
-2. To run energy measurement for a library for a particular dataset, nagvigate to scripts folder and use the command
+2. IMPORTANT: Please generate the required hdf5 files by navigating to the `datasets` folder and running the file `generate_hdfs.py`
+
+3. To run energy measurement for a library for a particular dataset, nagvigate to scripts folder and use the command
 
     sudo python3 measure_<dataset_name>_<library_name>.py
 
