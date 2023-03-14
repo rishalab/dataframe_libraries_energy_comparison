@@ -1,4 +1,4 @@
-##Instructions:
+## Instructions:
 
 1. IMPORTANT: Please generate the required hdf5 files by navigating to the `Datasets` folder and running the file `generate_hdfs.py`
 
@@ -11,7 +11,7 @@
 
 
 
-##Additional Information:
+## Additional Information:
 
  - Results folder contains results of our experiments
  - Summary folder contains mean, median and standard deviations of pkg, dram and time duration for all libraries for a particular dataset
