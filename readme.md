@@ -6,10 +6,10 @@
 
 3. To run energy measurement for a library for a particular dataset, nagvigate to scripts folder and use the command
 
-    sudo python3 measure_<dataset_name>_<library_name>.py
+    `sudo python3 measure_<dataset_name>_<library_name>.py`
 
     Ex: To measure energy consumption of Dask on Adult dataset, use
-    sudo python3 measure_adult_dask.py
+    `sudo python3 measure_adult_dask.py`
 
 
 
