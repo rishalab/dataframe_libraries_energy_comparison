@@ -1,6 +1,6 @@
 ## Instructions:
 
-1. IMPORTANT: Please generate the required hdf5 files by navigating to the `Datasets` folder and running the file `generate_hdfs.py`
+1. IMPORTANT: Please generate the required hdf5 files by navigating to the `datasets` folder and running the file `generate_hdfs.py`
 
 2. To run energy measurement for a library for a particular dataset, nagvigate to scripts folder and use the command
 
