@@ -1,6 +1,6 @@
 ## Instructions:
 
-1. Download the datasets in `CSV` and `JSON` formats from the [link](https://drive.google.com/drive/folders/13xHh2bvxF8X9cho1fVohIbu4lrpdvVlz?usp=sharing) 
+1. Download the datasets in `CSV` and `JSON` formats from the [link](https://drive.google.com/drive/folders/13xHh2bvxF8X9cho1fVohIbu4lrpdvVlz?usp=sharing) and place them in the `datasets` folder.
 
 2. IMPORTANT: Please generate the required hdf5 files by navigating to the `datasets` folder and running the file `generate_hdfs.py`
 
